@@ -1,0 +1,17 @@
+# Python
+.venv/
+**/.pytest_cache/
+**/__pycache__/
+*.pyc
+.env
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VSCode
+.vscode/
+
+# Project files
+backend/api/prompts.py
